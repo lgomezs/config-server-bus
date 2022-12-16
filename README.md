@@ -25,6 +25,7 @@ Test the config server by typing the following config server URL in your browser
 
 ## View application config client
 
+    https://github.com/lgomezs/config-client-bus
 
 
 
